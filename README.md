@@ -8,13 +8,15 @@ Funktionen und Eingabevalidierung.
 
 Projektstruktur
 
+```
+
 tic_tac_toe/
 │
 ├── main.py        – Einstiegspunkt des Programms
 ├── game.py        – Enthält die Spiellogik und Funktionen
 ├── README.md      – Dokumentation und Nutzungshinweise
 
-------------------------------------------------------------------------
+```
 
 ## 🚀 Funktionen
 
